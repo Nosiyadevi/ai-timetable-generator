@@ -23,4 +23,4 @@ AI-powered timetable generator built using vanilla JavaScript and Gemini API.
 
 ## Live Demo
 
-(Add your GitHub Pages link here)
+https://nosiyadevi.github.io/ai-timetable-generator/
