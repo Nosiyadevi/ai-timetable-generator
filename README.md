@@ -1,6 +1,6 @@
 # AI Timetable Generator
 
-AI-powered timetable generator built using vanilla JavaScript and Gemini API.
+AI-powered timetable generator built using vanilla JavaScript and Gemini API for API Power.
 
 ## Features
 
